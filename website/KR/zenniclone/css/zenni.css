@@ -1,0 +1,70 @@
+.row-margin {
+  margin-top: 60px;
+  margin-bottom: 60px;
+ 
+}
+
+
+.text-white {
+  color: white;
+}
+
+
+.button{
+  border: 1px solid white;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 5px 15px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.thumb {
+  display: block;
+  margin-top: 30px;
+  border-radius: 4px;
+}
+
+
+.img-thumb {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+
+.well {
+  font-size: 15px;
+  padding-bottom: 50px;
+}
+
+
+.button:hover {
+  color: inherit;
+  background-color: white;
+  cursor: pointer;
+}
+
+
+.btn-email{
+  color: white;
+  background-color:#587ea3;
+  border-color:rgba(0,0,0,0.2)
+}
+
+.btn-email:focus,
+.btn-email:hover,
+.btn-email:active{
+  color: white;
+  background-color:#466482;
+  border-color:rgba(0,0,0,0.2)
+}
+
+
+/* fix Safari for OS X font rendering issue when position:fixed; */
+body {
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+

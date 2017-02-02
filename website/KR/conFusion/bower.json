@@ -1,0 +1,26 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/katharine-ruoxi/ConFusion",
+  "description": "Website for an awesome Restaurant",
+  "main": "index.html",
+  "keywords": [
+    "ConFusion",
+    "Fusion",
+    "Restaurant"
+  ],
+  "authors": [
+    "Katharine Ruoxi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}

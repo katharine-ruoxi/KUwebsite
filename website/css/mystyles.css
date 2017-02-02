@@ -1,0 +1,112 @@
+
+
+
+/* Bootstrap v3.3.6 */ 
+@import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css';
+
+/* Fonts */
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,400italic,600,600italic,700,700italic';
+
+/* Social Log In*/
+@import 'https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css';
+
+.jumbotron{
+    
+    margin-top: 50px;
+    height: 200px;
+    padding-top: 20px;
+    padding-bottom: 120px;
+    margin-bottom: 0px;
+}
+
+.SearchEngine{
+    
+    margin-top: 10px;
+}
+
+
+.jumbotron{
+    
+    background-color: white;
+    
+}
+
+
+.navbar{
+    height: 40px;
+    margin-top: 8px;
+    margin-bottom:  7px;
+        
+    
+
+}
+
+#txt{
+    
+    padding-top: 40px;
+    
+}
+
+.row-footer{
+    
+    margin-top: 60px;
+}
+
+.btn-primary{
+    
+    background-color: black;
+    color: grey;
+      
+}
+
+.btn-primary:hover{
+    background-color: black;
+    color: white;
+    
+}
+
+.carousel img {
+
+  min-width: 100%;
+  min-height: 480px;
+ max-height: 480px;
+}
+
+
+#About{
+    
+    
+    margin-bottom: 80px;
+    margin-top: 60px;
+}
+
+#Tutor{
+    
+    background-color: lightgreen;
+    padding: 80px;
+    min-width: 100%;
+    
+}
+
+#School{
+    
+    background-color: lightgoldenrodyellow;
+    padding: 80px;
+    min-width: 100%;
+    
+}
+
+#Counseling{
+    
+    background-color: lightcyan;
+    padding: 80px;
+    min-width: 100%;
+    
+}
+
+.media-body{
+    
+    
+    padding: 40px;
+}
+
